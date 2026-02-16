@@ -9,14 +9,14 @@ Welcome to my digital workshop. I build high-performance ecosystems, professiona
 My work is organized into specialized **Studios**, each a modular powerhouse for specific industries.
 
 ### 🎨 Media & Production
-*   **[FinalStudioRAWr](https://github.com/alexdrgpy06/FinalStudioRAWr)**: Flagship next-gen RAW processing suite.
-*   **[ClioBulk](https://github.com/alexdrgpy06/ClioBulk)**: Professional batch image processing (Tauri/React).
+*   **[FinalStudioRAWr](https://github.com/alexdrgpy06/FinalStudioRAWr)**: Flagship next-gen RAW processing suite. [Vercel Deployable]
+*   **[ClioBulk](https://github.com/alexdrgpy06/ClioBulk)**: Professional batch image processing (Tauri/React). [Web Preview Available]
 *   **[Media-Production-Studio](https://github.com/alexdrgpy06/Media-Production-Studio)**: Unified workspace for professional media workflows.
 
 ### 💼 Enterprise & Logistics
-*   **[SaaS-POS-Studio](https://github.com/alexdrgpy06/SaaS-POS-Studio)**: Cloud-native modular POS system.
+*   **[SaaS-POS-Studio](https://github.com/alexdrgpy06/SaaS-POS-Studio)**: Cloud-native modular POS system. [Database: Supabase]
 *   **[FleetCommander-Hub](https://github.com/alexdrgpy06/FleetCommander-Hub)**: Real-time logistics and fleet management.
-*   **[Academic-Management-Studio](https://github.com/alexdrgpy06/Academic-Management-Studio)**: Unified education management suite.
+*   **[Academic-Management-Studio](https://github.com/alexdrgpy06/Academic-Management-Studio)**: Unified education management suite. [Database: Supabase]
 
 ### ⚡ Automation & Infrastructure
 *   **[AutoFlow-Middleware](https://github.com/alexdrgpy06/AutoFlow-Middleware)**: Event-driven cross-platform automation.
@@ -29,7 +29,7 @@ My work is organized into specialized **Studios**, each a modular powerhouse for
 - **Languages**: Rust, Python, JavaScript (ES6+), TypeScript, PowerShell.
 - **Frameworks**: React, Node.js, Tauri, PySide6, FastAPI.
 - **Engines**: Three.js, Pygame, Custom Logic Engines.
-- **Infrastructure**: Docker, GitHub Actions, Local-GPU AI (Stable Diffusion/Forge).
+- **Infrastructure**: Vercel, Docker, GitHub Actions, Local-GPU AI (Stable Diffusion/Forge).
 
 ---
 
